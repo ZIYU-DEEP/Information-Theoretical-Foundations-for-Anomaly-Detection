@@ -1,5 +1,6 @@
 # Information-Theoretical-Foundations-for-Anomaly-Detection
-A personal study note.
+*A personal study note.*  
+<br>
 
 ## Relevant Papers
 
